@@ -152,18 +152,18 @@
 
 ###21. Visitor
 
-* Có đầy đủ các file trong cấu trúc như visitor, concreteVisitor, element và phương thức của elements, objectStructure, client.
+* Có đầy đủ các file trong cấu trúc như visitor, concreteVisitor, element và phương thức của elements, objectStructure.
 * https://github.com/JamesZBL/java\_design\_patterns/tree/master/visitor (Link repo)
 * https://gpcoder.com/4813-huong-dan-java-design-pattern-visitor/ (Link tham khảo của gpcoder)
 
 ###22. State
 
-* Có đầy đủ các cấu trúc context, state và concreteState và có thêm hàm main.
+* Có đầy đủ các cấu trúc context, state và concreteState và có thêm hàm main
 * https://github.com/JamesZBL/java\_design\_patterns/tree/master/state (Link repo)
 * https://gpcoder.com/4785-huong-dan-java-design-pattern-state/ (Link tham khảo của gpcoder)
 
 ###23. Strategy
 
-* Có đầy đủ các cấu trúc như strategy, 2 concreteStrategy, context.
+* Có đầy đủ các cấu trúc như strategy, 2 concreteStrategy, context
 * https://github.com/JamesZBL/java\_design\_patterns/tree/master/strategy (Link repo)
 * https://gpcoder.com/4796-huong-dan-java-design-pattern-strategy/ (Link tham khảo của gpcoder)
